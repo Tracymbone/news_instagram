@@ -46,6 +46,7 @@ To run the application, in your terminal:
 * Python3.8
 * css
 * Bootstap
+* Git
 
 ### contact information
 
