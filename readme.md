@@ -34,12 +34,10 @@ In your terminal:
 
  * $ git clone https://github.com/Tracymbone/news_instagram
  * $ cd instagram
-### Running the Application
 
-To run the application, in your terminal:
- * $ #!/usr/bin/env python3.8
- * $ chmod +x run.py
- * $ ./run.py
+
+
+
 
 ### Technologies Used
 
