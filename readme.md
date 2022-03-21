@@ -1,6 +1,6 @@
 # Project Name
 
-INSTAGRAM APP
+
 
 ## Authors Information
 
