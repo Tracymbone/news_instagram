@@ -32,7 +32,7 @@ Like a picture and leave a comment on it.
 
 In your terminal:
 
- * $ git clone https://github.com/Tracymbone/password_locker
+ * $ git clone 
  * $ cd Password_locker
 ### Running the Application
 
