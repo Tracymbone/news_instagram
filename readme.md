@@ -44,6 +44,7 @@ To run the application, in your terminal:
 ### Technologies Used
 
 * Python3.8
+* css
 
 ### contact information
 
