@@ -47,6 +47,7 @@ To run the application, in your terminal:
 * css
 * Bootstap
 * Git
+* Heroku
 
 ### contact information
 
