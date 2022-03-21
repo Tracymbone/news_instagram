@@ -28,16 +28,6 @@ Follow other users and see their pictures on my timeline.
 Like a picture and leave a comment on it.
 
 
-
-
-
-### SetUp / Installation Requirements
-##### Prerequisites
-
-* python3.8
-* pip
-* $ run.py
-
 ### Cloning
 
 In your terminal:
