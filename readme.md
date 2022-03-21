@@ -14,7 +14,7 @@ Software Developer
 This IS about creating a clone of the website for the popular photo app INSTAGRAM.
 
 ### User Stories
-These are the behaviours/features that the application implements for use by a user.
+
 
 #### As a user I would like:
 
