@@ -32,7 +32,7 @@ Like a picture and leave a comment on it.
 
 In your terminal:
 
- * $ git clone 
+ * $ git clone https://github.com/Tracymbone/news_instagram
  * $ cd instagram
 ### Running the Application
 
