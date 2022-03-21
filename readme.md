@@ -33,7 +33,7 @@ Like a picture and leave a comment on it.
 In your terminal:
 
  * $ git clone 
- * $ cd Password_locker
+ * $ cd instagram
 ### Running the Application
 
 To run the application, in your terminal:
