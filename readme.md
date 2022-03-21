@@ -11,7 +11,7 @@ Software Developer
 
 ### Description
 
-This IS about creating a clone of the website for the popular photo app INSTAGRAM.
+This is about creating a clone of the website for the popular photo app INSTAGRAM.
 
 ### User Stories
 
