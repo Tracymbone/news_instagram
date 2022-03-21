@@ -11,7 +11,7 @@ Software Developer
 
 ### Description
 
-This is a terminal based project where users can input their credentials according to the different accounts that they have.
+This IS about creating a clone of the website for the popular photo app INSTAGRAM.
 
 ### User Stories
 These are the behaviours/features that the application implements for use by a user.
