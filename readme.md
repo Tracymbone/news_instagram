@@ -29,10 +29,6 @@ Like a picture and leave a comment on it.
 
 #### As a user I would like:
 
-* To create an account named users with my details - sign in and credential
-* Store my previous sign in credentials
-* Generate a credential for a new credential/user account
-
 ### SetUp / Installation Requirements
 ##### Prerequisites
 
