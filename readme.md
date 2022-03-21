@@ -15,6 +15,8 @@ This IS about creating a clone of the website for the popular photo app INSTAGRA
 
 ### User Stories
 
+#### As a user I would like:
+
 Sign in to the application to start using.
 
 Upload my pictures to the application.
@@ -27,7 +29,7 @@ Like a picture and leave a comment on it.
 
 
 
-#### As a user I would like:
+
 
 ### SetUp / Installation Requirements
 ##### Prerequisites
