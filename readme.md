@@ -37,7 +37,7 @@ In your terminal:
 
 ### Setup Instruction
 
-
+This project is also foung in other medias.
 
 ### Technologies Used
 
